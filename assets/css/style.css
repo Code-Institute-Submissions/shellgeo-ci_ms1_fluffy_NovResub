@@ -1,0 +1,18 @@
+
+
+
+
+
+
+
+
+.social-networks li{
+    display: inline;
+}
+
+.social-networks i{
+    font-size: 200%;
+    margin: 1%;
+    padding: 5%;
+    color: #777777;
+}
