@@ -1,6 +1,9 @@
+@import ('<link href="https://fonts.googleapis.com/css?family=Droid+Serif|Roboto:300" rel="stylesheet">')
 
-
-
+nav {
+	padding: 1rem;
+    color: #845ec2;
+}
 
 
 
@@ -14,5 +17,5 @@
     font-size: 200%;
     margin: 1%;
     padding: 5%;
-    color: #777777;
+    color: #a7a0af;
 }
