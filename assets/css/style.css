@@ -2,7 +2,6 @@
 
 nav {
 	padding: 1rem;
-    background-color: #845ec2;
     Font-Family: 'Roboto', Sans-Serif;
     Font-Size: 20px;
     font-color: #4b4453;
@@ -11,10 +10,18 @@ nav {
 
 
 
+    background-color: #845ec2;
+
 
 .social-networks li{
     display: inline;
 }
+
+.social-networks{
+    text-align: center;
+    list-style-type: none;
+}
+
 
 .social-networks i{
     font-size: 200%;
