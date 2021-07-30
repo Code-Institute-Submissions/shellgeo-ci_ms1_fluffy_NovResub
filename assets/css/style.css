@@ -1,8 +1,10 @@
-@import('link href="https://fonts.googleapis.com/css?family=Droid+Serif|Roboto:300" rel="stylesheet"')
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto&display=swap');
+</style>
 
 nav {
 	padding: 1rem;
-    Font-Family: 'Roboto', Sans-Serif;
+    Font-Family:'Poppins', sans-serif;
     Font-Size: 20px;
     font-color: #4b4453;
 }
