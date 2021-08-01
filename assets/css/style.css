@@ -10,15 +10,9 @@ nav {
 }
 
 #hero-image {
-    height: 600px;
-    width: 100%;
-    background: url("assets/img/hero_image-20jX9b35r_M-unsplash.jpg")
-    no-repeat center center;
+    background: url("../images/hero_image.jpg") no-repeat center center;
+    padding: 40%;
     background-color: rgba(0, 0, 0, 0);
-    background-position-x: center;
-    background-position-y: center;
-    background-repeat: no-repeat;
-    background-attachment: scroll;
 }
 
 
