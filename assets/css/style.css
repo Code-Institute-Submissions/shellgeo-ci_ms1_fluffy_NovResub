@@ -10,14 +10,17 @@ nav {
 }
 
 #hero-image {
-    background: url("../images/hero_image.jpg") no-repeat center center;
-    padding: 40%;
+    background: url("../images/hero_image.jpg") no-repeat center;
+    max-height: 75vh;
+    max-width: calc(112.921vh);
+    min-height: 300px;
+    min-width: calc(451.685px);
     background-color: rgba(0, 0, 0, 0);
 }
 
 
-{background-color: #845ec2;
-}
+/* background-color: #845ec2; */
+
     
 
 
