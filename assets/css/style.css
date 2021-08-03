@@ -11,17 +11,23 @@ nav {
 
 #hero-image {
     background: url("../images/hero_image.jpg") no-repeat center;
-    max-height: 75vh;
-    max-width: calc(112.921vh);
-    min-height: 300px;
-    min-width: calc(451.685px);
+    height: 100rem;
+    max-width: 100%;
     background-color: rgba(0, 0, 0, 0);
 }
 
+div p{
+    font-family: 'Roboto', sans-serif;
+    color: #a7a0af;
+    text-align: center;
+    font-size: 16px;
+}
 
+.slogan{
+    position: ;
+}
 /* background-color: #845ec2; */
 
-    
 
 
 .social-networks li{
