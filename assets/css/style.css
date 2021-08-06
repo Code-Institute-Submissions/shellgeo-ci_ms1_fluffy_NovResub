@@ -11,8 +11,9 @@ nav {
 
 #hero-image {
     background: url("../images/hero_image.jpg") no-repeat center;
-    height: 100rem;
+    height: 150em;
     max-width: 100%;
+    background-size: auto;
     background-color: rgba(0, 0, 0, 0);
 }
 
@@ -45,4 +46,16 @@ div p{
     margin: 1%;
     padding: 5%;
     color: #a7a0af;
+}
+
+#maps-wrapper {
+
+    height: 300px;
+    margin-bottom: 107px;
+}
+
+#maps {
+    height: 100%;
+    width: 100%;
+    border: none;
 }
