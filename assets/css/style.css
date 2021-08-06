@@ -11,7 +11,7 @@ nav {
 
 #hero-image {
     background: url("../images/hero_image.jpg") no-repeat center;
-    height: 150em;
+    height: 50em;
     max-width: 100%;
     background-size: auto;
     background-color: rgba(0, 0, 0, 0);
@@ -25,7 +25,8 @@ div p{
 }
 
 .slogan{
-    position: ;
+    color: #a7a0af;
+    text-align: center;
 }
 /* background-color: #845ec2; */
 
