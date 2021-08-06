@@ -11,8 +11,7 @@ nav {
 
 #hero-image {
     background: url("../images/hero_image.jpg") no-repeat center;
-    height: 100rem;
-    max-width: 100%;
+    background-size: auto;
     background-color: rgba(0, 0, 0, 0);
 }
 
