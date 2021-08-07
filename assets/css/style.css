@@ -2,6 +2,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto&display=swap');
 </style>
 
+/* color-ref primary-color: #845ec2; | secondary-color:  #4b4453 | accent-color:  #b0a8b9 */
+
 nav {
 	padding: 1rem;
     Font-Family:'Poppins', sans-serif;
@@ -10,8 +12,7 @@ nav {
 }
 
 .navbar{
-    background-color: #845ec2;
-   
+    background-color: #845ec2; 
 }
 
 #hero-image {
@@ -21,6 +22,7 @@ nav {
     background-size: cover;
     background-color: rgba(0, 0, 0, 0);
 }
+
 
 .btn-secondary {
     color: #b0a8b9;
@@ -33,18 +35,15 @@ nav {
 }
 div p{
     font-family: 'Roboto', sans-serif;
-    color: #4b4453;
+    color: #b0a8b9;
     text-align: center;
     font-size: 16px;
 }
 
 .slogan{
-    color: #a7a0af;
+    color: #b0a8b9;
     text-align: center;
 }
-/* color-ref primary-color: #845ec2; | secondary-color:  #4b4453 | accent-color:  #b0a8b9 */
-
-
 
 .social-networks li{
     display: inline;
@@ -73,4 +72,9 @@ div p{
     height: 100%;
     width: 100%;
     border: none;
+}
+
+
+#closing-line{
+color: #b0a8b9;
 }
