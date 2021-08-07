@@ -17,7 +17,9 @@ nav {
     background-color: rgba(0, 0, 0, 0);
 }
 
-
+#sign-up{
+    position: center;
+}
 div p{
     font-family: 'Roboto', sans-serif;
     color: #a7a0af;
