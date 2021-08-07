@@ -9,12 +9,23 @@ nav {
     font-color: #4b4453;
 }
 
+.navbar{
+    background-color: #845ec2;
+   
+}
+
 #hero-image {
-    background: url("../images/hero_image.jpg") no-repeat center;
-    height: 50em;
+    background: url(../images/hero_image.jpg) no-repeat center center fixed;
+    height: 100vh;
     max-width: 100%;
-    background-size: auto;
+    background-size: cover;
     background-color: rgba(0, 0, 0, 0);
+}
+
+.btn-secondary {
+    color: #b0a8b9;
+    background-color: #845ec2;
+    border-color: #845ec2;
 }
 
 #sign-up{
@@ -22,7 +33,7 @@ nav {
 }
 div p{
     font-family: 'Roboto', sans-serif;
-    color: #a7a0af;
+    color: #4b4453;
     text-align: center;
     font-size: 16px;
 }
@@ -31,7 +42,7 @@ div p{
     color: #a7a0af;
     text-align: center;
 }
-/* background-color: #845ec2; */
+/* color-ref primary-color: #845ec2; | secondary-color:  #4b4453 | accent-color:  #b0a8b9 */
 
 
 
