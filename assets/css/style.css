@@ -9,7 +9,6 @@ nav {
 	padding: 1rem;
     Font-Family:'Poppins', sans-serif;
     Font-Size: 20px;
-    font-color: #4b4453;
 }
 
 .navbar{
@@ -29,6 +28,7 @@ nav {
     color: #ffffff;
     background-color: #6d2433;
     border-color: #6d2433;
+    font-family: 'Poppins', sans-serif;
 }
 
 
@@ -36,9 +36,6 @@ nav {
     text-align: center !important;
 }
 
-#sign-up{
-    position: center;
-}
 div p{
     font-family: 'Roboto', sans-serif;
     color: #6abea7;
@@ -91,4 +88,8 @@ About Us Page
     max-width: 100%;
     background-size: cover;
     background-color: rgba(0, 0, 0, 0);
+}
+
+#gym-times{
+    text-decoration: none;
 }
