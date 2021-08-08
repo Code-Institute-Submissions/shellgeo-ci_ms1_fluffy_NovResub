@@ -2,7 +2,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto&display=swap');
 </style>
 
-/* color-ref primary-color: #845ec2; | secondary-color:  #4b4453 | accent-color:  #b0a8b9 */
+
+/* color-ref primary-color: #0d5d56; | secondary-color:  #6d2433 | accent-color:  #6abea7 */
 
 nav {
 	padding: 1rem;
@@ -12,7 +13,7 @@ nav {
 }
 
 .navbar{
-    background-color: #845ec2; 
+    background-color: #0d5d56; 
 }
 
 #hero-image {
@@ -25,9 +26,14 @@ nav {
 
 
 .btn-secondary {
-    color: #b0a8b9;
-    background-color: #845ec2;
-    border-color: #845ec2;
+    color: #ffffff;
+    background-color: #6d2433;
+    border-color: #6d2433;
+}
+
+
+.text-center {
+    text-align: center !important;
 }
 
 #sign-up{
@@ -35,13 +41,17 @@ nav {
 }
 div p{
     font-family: 'Roboto', sans-serif;
-    color: #b0a8b9;
+    color: #6abea7;
     text-align: center;
     font-size: 16px;
 }
 
+.text-uppercase.my-3 {
+    color: #0d5d56;
+}
+
 .slogan{
-    color: #b0a8b9;
+    color: #6abea7;
     text-align: center;
 }
 
@@ -59,14 +69,9 @@ div p{
     font-size: 200%;
     margin: 1%;
     padding: 5%;
-    color: #a7a0af;
+    color: #6d2433;
 }
 
-#maps-wrapper {
-
-    height: 300px;
-    margin-bottom: 107px;
-}
 
 #maps {
     height: 100%;
@@ -77,4 +82,13 @@ div p{
 
 #closing-line{
 color: #b0a8b9;
+}
+
+About Us Page 
+#about-image{
+    background: url("..images/crossfit-class.jpg");
+    height: 70vh;
+    max-width: 100%;
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0);
 }
