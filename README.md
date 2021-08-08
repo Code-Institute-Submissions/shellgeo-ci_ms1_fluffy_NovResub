@@ -15,9 +15,9 @@ View the deployed webiste here: [The FitStop](https://shellgeo.github.io/ci_ms1_
 
 ## Table of Contents
 1. [User Experience Design]()
-    - [Strategy](Strategy)
-    - [Scope](Scope)
-    - [Structure](Structure)
+    - [Strategy](#Strategy)
+    - [Scope](#Scope)
+    - [Structure](#Structure)
     - [Skeleton]()
        - []()
        - []()
