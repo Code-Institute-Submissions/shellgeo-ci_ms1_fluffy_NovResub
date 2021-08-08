@@ -19,10 +19,8 @@ View the deployed webiste here: [The FitStop](https://shellgeo.github.io/ci_ms1_
     - [Scope](#Scope)
     - [Structure](#Structure)
     - [Skeleton]()
-       - []()
-       - []()
-        
-2. [
+
+2. []()
 
 
 ___
@@ -32,7 +30,7 @@ ___
 
  **Focus:** The focus of this project was to make an informative and interactive design for the founder of the gym, Isla Carson. The founder wanted ensure the webiste was inclusive, intuitive and simple to use. 
 
- **Definition:** The website was created so that the customers/users can stay up to date with the gym's events and training classes. The users would also be able to get a good first impression of the environment, the trainers and the coaches. Once they are able to have al the important information, they can choose to sign up and become a member of teh gym. 
+ **Definition:** The website was created so that the customers/users can stay up to date with the gym's events and training classes. The users would also be able to get a good first impression of the environment, the trainers and the coaches. Once they are able to have all the important information, they can choose to sign up and become a member of the gym. 
 
  **Value:** This webiste should entice customers to learn as much about the gym and the servies as possible. Which in turn, would lead them to sign up for the membership. This allows the founder to get increase her customer base and increase her revenue from this business.
 

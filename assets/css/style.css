@@ -1,14 +1,15 @@
 <style>
-@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto&display=swap');
-</style>
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Righteous&display=swap');
+</style> 
 
+/*   font-family: 'Montserrat', sans-serif; | font-family: 'Righteous', cursive; */
 
 /* color-ref primary-color: #0d5d56; | secondary-color:  #6d2433 | accent-color:  #6abea7 */
 
 nav {
 	padding: 1rem;
-    Font-Family:'Poppins', sans-serif;
-    Font-Size: 20px;
+    Font-Family:'Righteous', cursive;
+    Font-Size: 30px;
 }
 
 .navbar{
@@ -28,16 +29,12 @@ nav {
     color: #ffffff;
     background-color: #6d2433;
     border-color: #6d2433;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
-
-.text-center {
-    text-align: center !important;
-}
 
 div p{
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     color: #6abea7;
     text-align: center;
     font-size: 16px;
@@ -81,15 +78,23 @@ div p{
 color: #6d2433;
 }
 
-About Us Page 
+/* About Us Page  */
 #about-image{
-    background: url("..images/crossfit-class.jpg");
-    height: 70vh;
+    background: url('../images/crossfit-class.jpg') no-repeat center center fixed;
+    height: 100vh;
     max-width: 100%;
     background-size: cover;
-    background-color: rgba(0, 0, 0, 0);
+}
+
+div h2{
+    color: #6abea7;
+    font-family: 'Righteous', cursive;
+}
+
+#community-slogan {
+    text-align: center;
 }
 
 #gym-times{
-    text-decoration: none;
+    
 }
