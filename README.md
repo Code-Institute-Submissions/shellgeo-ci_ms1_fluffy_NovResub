@@ -59,7 +59,8 @@ First time user -
 Regular or returning user - 
  - Have access to an easily readable timetable for all the classes.
  - Quick access to sign up link if they are a returning customer. 
- - Quickly access the social media links to follow the gym's activities and events
+ - Quickly access the social media links to follow the gym's activities and community events.
+ - Learn about the additional benefits of being a monthly paid member and the different membership tiers. 
 
 ## **Structure** 
 ### Interaction Design:
