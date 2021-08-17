@@ -1,6 +1,6 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Righteous&display=swap');
-</style> 
+</style>  
 
 /*   font-family: 'Montserrat', sans-serif; | font-family: 'Righteous', cursive; */
 
@@ -8,7 +8,7 @@
 
 nav {
 	padding: 1rem;
-    Font-Family:'Righteous', sans-serif;
+    Font-Family:'Montserrat', sans-serif;
     Font-Size: 30px;
 }
 
@@ -83,6 +83,7 @@ div p{
 #closing-line{
 color: #6d2433;
 }
+/* END OF INDEX */
 
 /* About Us Page  */
 #about-image{
@@ -101,6 +102,16 @@ div h2{
     text-align: center;
 }
 
+.jumbotron-header {
+    font-family: 'Righteous', cursive;
+    color: #6abea7;
+    font-size: 4rem;
+    font-weight: 700;
+    letter-spacing: .3rem;
+    margin-bottom: 25px;
+
 #gym-times{
     
 }
+
+/* END OF ABOUT */
