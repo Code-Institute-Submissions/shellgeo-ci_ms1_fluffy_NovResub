@@ -107,11 +107,16 @@ div h2{
     color: #6abea7;
     font-size: 4rem;
     font-weight: 700;
-    letter-spacing: .3rem;
-    margin-bottom: 25px;
+    margin-top: 80px;
 
 #gym-times{
     
+}
+
+.col-4 {
+    -ms-flex: 0 0 33.333333%;
+    flex: 0 0 33.333333%;
+    max-width: 33.333333%;
 }
 
 /* END OF ABOUT */
