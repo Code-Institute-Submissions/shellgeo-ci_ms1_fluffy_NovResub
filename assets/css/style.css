@@ -119,4 +119,27 @@ div h2{
     max-width: 33.333333%;
 }
 
-/* END OF ABOUT */
+.box {
+    background-color: #444444;
+    text-align: center;
+    padding: 50px 0;
+    color: white;
+    font-size: 32px;
+    line-height: 32px;
+    border-radius: 6px;
+    margin-bottom: 20px;
+}
+
+/* ----------END OF ABOUT---------------- */
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) { ... }
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) { ... }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) { ... }
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
