@@ -110,6 +110,7 @@ div h2{
     margin-top: 80px;
 
 #gym-times{
+    color: #6d2433;
     
 }
 
@@ -120,7 +121,7 @@ div h2{
 }
 
 .box {
-    background-color: #444444;
+    background-color: #6abea7
     text-align: center;
     padding: 50px 0;
     color: white;
