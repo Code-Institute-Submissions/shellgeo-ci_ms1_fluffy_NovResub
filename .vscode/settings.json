@@ -19,7 +19,10 @@
       "**/CVS": true
    },
    "files.autoSave": "off",
-   "workbench.colorTheme": "Visual Studio Dark",
+   "workbench.colorTheme": "Bearded Theme Anthracite",
    "editor.defaultFormatter": "HookyQR.beautify",
    "liveServer.settings.port": 5501,
+   "cSpell.words": [
+      "mischale"
+   ],
 }
