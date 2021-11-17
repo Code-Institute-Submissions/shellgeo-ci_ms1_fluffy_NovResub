@@ -19,10 +19,11 @@
       "**/CVS": true
    },
    "files.autoSave": "off",
-   "workbench.colorTheme": "Bearded Theme Anthracite",
+   "workbench.colorTheme": "Bearded Theme Black & Amethyst",
    "editor.defaultFormatter": "HookyQR.beautify",
    "liveServer.settings.port": 5501,
    "cSpell.words": [
-      "mischale"
+      "mischale",
+      "wireframes"
    ],
 }
