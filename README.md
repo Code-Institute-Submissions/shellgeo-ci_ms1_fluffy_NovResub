@@ -20,10 +20,16 @@ View the deployed website here: [The FitStop](https://shellgeo.github.io/ci_ms1_
     - [Structure](#Structure)
     - [Skeleton](#Skeleton)
     - [Surface](#Surface)
+        - [Wireframes](#Wireframes)
+            - [Home]() 
+            - [About Us](https://github.com/shellgeo/ci_ms1_fluffy/blob/f7f2e7769be8062332c6470cf8b4a08e1a4289f1/docs/docs/wireframes/About Us.png)
+            - [Prices & Schedules]()
+            - [Meet the Team]()
+            - [PDF Version]()
 
 2. []()
 
-
+3. []()
 ___
 # User Experience Design 
 ## **Strategy**  
@@ -79,13 +85,23 @@ The information in each of the pages was laid out so that a user would be able t
 
 
 ## **Skeleton** 
-The whole purpose of this website was to show users important information regarding the gym, the events and the membership prices. The aim is make the user feel like that can seamlessly move across the website find the information that is relevant to them. Ensuring that this information is laid out intuitively will allow the user to have a positive experience. 
+The whole purpose of this website was to show users important information regarding the gym, the events and the membership prices. The aim is make the user feel like that can seamlessly move across the website, find the information that is relevant to them. Ensuring that this information is laid out intuitively will allow the user to have a positive experience. 
 
-I attempted to use progressive disclosure across each of the page so that it would entice the user to continue exploring through the website and interact with different elements. I also wanted to make sure that there were visual metaphors using representational icons that would allow the customer to link certain titles with every day images. 
+I attempted to use progressive disclosure across each of the page so that it would entice the user to continue exploring through the website and interact with different elements. I also wanted to make sure that there were visual metaphors using representational icons that would allow the customer to link certain titles with every day images. I also aim to implement visual confirmation an action or task is completed on any of the forms or enquiry boxes. This would give the user a visual cue to confirm that their action has been processed by my website.
 
+**Wireframes**
+
+I used Balsamiq to create some wireframes. My understanding of wireframes is allows me as the developer to create a mock-up of the website and give the user a visual representation of what the website will look like. 
 
 ## **Surface**
 
-
+Colour
+Typography 
+Images 
+Effects
+final product
+minimize cognitive overload 
+maximizing intuitive learning
+visual balance 
 ---
 
