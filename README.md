@@ -21,11 +21,11 @@ View the deployed website here: [The FitStop](https://shellgeo.github.io/ci_ms1_
     - [Skeleton](#Skeleton)
     - [Surface](#Surface)
         - [Wireframes](#Wireframes)
-            - [Home]() 
-            - [About Us](https://github.com/shellgeo/ci_ms1_fluffy/blob/f7f2e7769be8062332c6470cf8b4a08e1a4289f1/docs/docs/wireframes/About Us.png)
-            - [Prices & Schedules]()
-            - [Meet the Team]()
-            - [PDF Version]()
+            - **Home** - [Desktop](https://github.com/shellgeo/ci_ms1_fluffy/blob/d5772c9fdafc2c0db2f73b83320adec19f84b72d/docs/docs/wireframes/About_Us.png) | [Mobile](https://github.com/shellgeo/ci_ms1_fluffy/blob/f7f2e7769be8062332c6470cf8b4a08e1a4289f1/docs/docs/wireframes/Homepage_mobile.png)
+            - **About Us** - [Desktop](https://github.com/shellgeo/ci_ms1_fluffy/blob/d5772c9fdafc2c0db2f73b83320adec19f84b72d/docs/docs/wireframes/About_Us.png) | [Mobile](https://github.com/shellgeo/ci_ms1_fluffy/blob/f7f2e7769be8062332c6470cf8b4a08e1a4289f1/docs/docs/wireframes/About_mobile.png)
+            - **Prices & Schedules** -[Desktop](https://github.com/shellgeo/ci_ms1_fluffy/blob/d5772c9fdafc2c0db2f73b83320adec19f84b72d/docs/docs/wireframes/Schedule_and_Prices.png) | [Mobile](https://github.com/shellgeo/ci_ms1_fluffy/blob/f7f2e7769be8062332c6470cf8b4a08e1a4289f1/docs/docs/wireframes/Schedule_mobile.png)
+            - **Meet the Team** - [Desktop](https://github.com/shellgeo/ci_ms1_fluffy/blob/d5772c9fdafc2c0db2f73b83320adec19f84b72d/docs/docs/wireframes/Meet_the_Team_and_Services.png) | [Mobile](https://github.com/shellgeo/ci_ms1_fluffy/blob/d5772c9fdafc2c0db2f73b83320adec19f84b72d/docs/docs/wireframes/Meet_the_Team_and_Services_mobile.png)
+            
 
 2. []()
 
