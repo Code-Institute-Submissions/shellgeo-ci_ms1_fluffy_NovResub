@@ -1,7 +1,7 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-# The FitStop - A Milestone Project for the Code Institute Diploma in Software Development
-
+# **The FitStop**   
+A Milestone Project completed by Shell George for the Code Institute Diploma in Software Development.
 
 ### Introduction: Mischale 'Shell' George 
 
@@ -19,27 +19,23 @@ View the deployed website here: [The FitStop](https://shellgeo.github.io/ci_ms1_
     - [Scope](#Scope)
     - [Structure](#Structure)
     - [Skeleton](#Skeleton)
-    - [Surface](#Surface)
         - [Wireframes](#Wireframes)
-            - **Home** - [Desktop](https://github.com/shellgeo/ci_ms1_fluffy/blob/d5772c9fdafc2c0db2f73b83320adec19f84b72d/docs/docs/wireframes/About_Us.png) | [Mobile](https://github.com/shellgeo/ci_ms1_fluffy/blob/f7f2e7769be8062332c6470cf8b4a08e1a4289f1/docs/docs/wireframes/Homepage_mobile.png)
-            - **About Us** - [Desktop](https://github.com/shellgeo/ci_ms1_fluffy/blob/d5772c9fdafc2c0db2f73b83320adec19f84b72d/docs/docs/wireframes/About_Us.png) | [Mobile](https://github.com/shellgeo/ci_ms1_fluffy/blob/f7f2e7769be8062332c6470cf8b4a08e1a4289f1/docs/docs/wireframes/About_mobile.png)
-            - **Prices & Schedules** -[Desktop](https://github.com/shellgeo/ci_ms1_fluffy/blob/d5772c9fdafc2c0db2f73b83320adec19f84b72d/docs/docs/wireframes/Schedule_and_Prices.png) | [Mobile](https://github.com/shellgeo/ci_ms1_fluffy/blob/f7f2e7769be8062332c6470cf8b4a08e1a4289f1/docs/docs/wireframes/Schedule_mobile.png)
-            - **Meet the Team** - [Desktop](https://github.com/shellgeo/ci_ms1_fluffy/blob/d5772c9fdafc2c0db2f73b83320adec19f84b72d/docs/docs/wireframes/Meet_the_Team_and_Services.png) | [Mobile](https://github.com/shellgeo/ci_ms1_fluffy/blob/d5772c9fdafc2c0db2f73b83320adec19f84b72d/docs/docs/wireframes/Meet_the_Team_and_Services_mobile.png)
+    - [Surface](#Surface)
             
-
+            
 2. []()
 
 3. []()
 ___
 # User Experience Design 
 ## **Strategy**  
-### User Needs & Business Obejctives: 
+### User Needs & Business Objectives: 
 
  **Focus:** The focus of this project was to make an informative and interactive design for the founder of the gym, Isla Carson. The founder wanted to ensure the website was inclusive, intuitive and simple to use. 
 
  **Definition:** The website was created so that the customers/users can stay up to date with the gym's events and training classes. The users would also be able to get a good first impression of the environment, the trainers and the coaches. Once they are able to have all the important information, they can choose to sign up and become a member of the gym. 
 
- **Value:** This website should entice customers to learn as much about the gym and the servies as possible. Which in turn, would lead them to sign up for the membership. This allows the founder to get increase her customer base and increase her revenue from this business.
+ **Value:** This website should entice customers to learn as much about the gym and the services as possible. Which in turn, would lead them to sign up for the membership. This allows the founder to increase her customer base and increase her revenue from this business.
 
 ## **Scope** 
 ### Functional Specification:
@@ -87,21 +83,36 @@ The information in each of the pages was laid out so that a user would be able t
 ## **Skeleton** 
 The whole purpose of this website was to show users important information regarding the gym, the events and the membership prices. The aim is make the user feel like that can seamlessly move across the website, find the information that is relevant to them. Ensuring that this information is laid out intuitively will allow the user to have a positive experience. 
 
-I attempted to use progressive disclosure across each of the page so that it would entice the user to continue exploring through the website and interact with different elements. I also wanted to make sure that there were visual metaphors using representational icons that would allow the customer to link certain titles with every day images. I also aim to implement visual confirmation an action or task is completed on any of the forms or enquiry boxes. This would give the user a visual cue to confirm that their action has been processed by my website.
+I attempted to use progressive disclosure across each of the page so that it would entice the user to continue exploring through the website and interact with different elements. I also wanted to make sure that there were visual metaphors using representational icons that would allow the customer to link certain titles with every day images. Furthermore, I also aim to implement visual confirmation an action or task is completed on any of the forms or inquiry boxes. This would give the user a visual cue to confirm that their action has been processed by my website.
 
-**Wireframes**
+# **Wireframes**
 
-I used Balsamiq to create some wireframes. My understanding of wireframes is allows me as the developer to create a mock-up of the website and give the user a visual representation of what the website will look like. 
+I used Balsamiq to create some wireframes. My understanding of wireframes it allows me as the developer; to create a mock-up of the website and give the Owner a visual representation of what the website will look like. 
+
+I have attached my [First Draft](https://github.com/shellgeo/ci_ms1_fluffy/blob/f7f2e7769be8062332c6470cf8b4a08e1a4289f1/docs/docs/wireframes/first_draft.png) as this was my initial vision for the website and after some research I decided to elaborate on my design which is shown below. 
+
+-  **Home** - [Desktop](https://github.com/shellgeo/ci_ms1_fluffy/blob/d5772c9fdafc2c0db2f73b83320adec19f84b72d/docs/docs/wireframes/About_Us.png) | [Mobile](https://github.com/shellgeo/ci_ms1_fluffy/blob/f7f2e7769be8062332c6470cf8b4a08e1a4289f1/docs/docs/wireframes/Homepage_mobile.png)
+- **About Us** - [Desktop](https://github.com/shellgeo/ci_ms1_fluffy/blob/d5772c9fdafc2c0db2f73b83320adec19f84b72d/docs/docs/wireframes/About_Us.png) | [Mobile](https://github.com/shellgeo/ci_ms1_fluffy/blob/f7f2e7769be8062332c6470cf8b4a08e1a4289f1/docs/docs/wireframes/About_mobile.png)
+- **Prices & Schedules** - [Desktop](https://github.com/shellgeo/ci_ms1_fluffy/blob/d5772c9fdafc2c0db2f73b83320adec19f84b72d/docs/docs/wireframes/Schedule_and_Prices.png) | [Mobile](https://github.com/shellgeo/ci_ms1_fluffy/blob/f7f2e7769be8062332c6470cf8b4a08e1a4289f1/docs/docs/wireframes/Schedule_mobile.png)
+- **Meet the Team** - [Desktop](https://github.com/shellgeo/ci_ms1_fluffy/blob/d5772c9fdafc2c0db2f73b83320adec19f84b72d/docs/docs/wireframes/Meet_the_Team_and_Services.png) | [Mobile](https://github.com/shellgeo/ci_ms1_fluffy/blob/d5772c9fdafc2c0db2f73b83320adec19f84b72d/docs/docs/wireframes/Meet_the_Team_and_Services_mobile.png)
 
 ## **Surface**
 
 Colour
+
 Typography 
+
 Images 
+
 Effects
-final product
+
+final product - Mock Up
+
 minimize cognitive overload 
+
 maximizing intuitive learning
+
 visual balance 
+
 ---
 
