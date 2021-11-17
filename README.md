@@ -21,9 +21,10 @@ View the deployed website here: [The FitStop](https://shellgeo.github.io/ci_ms1_
     - [Skeleton](#Skeleton)
         - [Wireframes](#Wireframes)
     - [Surface](#Surface)
+        - [Design](#Design)
             
             
-2. []()
+2. [Features](#Features)
 
 3. []()
 ___
@@ -85,7 +86,7 @@ The whole purpose of this website was to show users important information regard
 
 I attempted to use progressive disclosure across each of the page so that it would entice the user to continue exploring through the website and interact with different elements. I also wanted to make sure that there were visual metaphors using representational icons that would allow the customer to link certain titles with every day images. Furthermore, I also aim to implement visual confirmation an action or task is completed on any of the forms or inquiry boxes. This would give the user a visual cue to confirm that their action has been processed by my website.
 
-# **Wireframes**
+### **Wireframes**
 
 I used Balsamiq to create some wireframes. My understanding of wireframes it allows me as the developer; to create a mock-up of the website and give the Owner a visual representation of what the website will look like. 
 
@@ -96,8 +97,11 @@ I have attached my [First Draft](https://github.com/shellgeo/ci_ms1_fluffy/blob/
 - **Prices & Schedules** - [Desktop](https://github.com/shellgeo/ci_ms1_fluffy/blob/d5772c9fdafc2c0db2f73b83320adec19f84b72d/docs/docs/wireframes/Schedule_and_Prices.png) | [Mobile](https://github.com/shellgeo/ci_ms1_fluffy/blob/f7f2e7769be8062332c6470cf8b4a08e1a4289f1/docs/docs/wireframes/Schedule_mobile.png)
 - **Meet the Team** - [Desktop](https://github.com/shellgeo/ci_ms1_fluffy/blob/d5772c9fdafc2c0db2f73b83320adec19f84b72d/docs/docs/wireframes/Meet_the_Team_and_Services.png) | [Mobile](https://github.com/shellgeo/ci_ms1_fluffy/blob/d5772c9fdafc2c0db2f73b83320adec19f84b72d/docs/docs/wireframes/Meet_the_Team_and_Services_mobile.png)
 
+
 ## **Surface**
 
+
+### Design
 Colour
 
 Typography 
