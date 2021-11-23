@@ -21,9 +21,10 @@
    "files.autoSave": "onExit",
    "workbench.colorTheme": "Bearded Theme Black & Amethyst",
    "editor.defaultFormatter": "HookyQR.beautify",
-   "liveServer.settings.port": 5501,
+   "liveServer.settings.port": 5503,
    "cSpell.words": [
       "Balsamiq",
+      "crossfitters",
       "initila",
       "Isla",
       "mischale",
