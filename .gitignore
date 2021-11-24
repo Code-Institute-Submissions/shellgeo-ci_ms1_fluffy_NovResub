@@ -6,3 +6,4 @@ __pycache__/
 *.py[cod]
 node_modules/
 docs/docs/testing/about_test.html
+docs/docs/help.txt
