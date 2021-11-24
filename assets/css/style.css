@@ -31,7 +31,9 @@ nav {
 
 .location-container {}
 
-.footer-container {}
+.footer-container {
+    text-decoration: none;
+}
 
 #hero-image {
     background: url(../images/hero_image.jpg) no-repeat center center fixed;
@@ -81,7 +83,7 @@ nav {
 
 #subtext {
     color: #6abea7;
-    font-size: 30px;
+    font-size: 15px;
     font-family: 'Montserrat', sans-serif;
 }
 

@@ -21,7 +21,7 @@
 
     <!-- Navbar | Credit: Inspired by Matt Rudge, Code Institute. -->
     <header>
-        <nav class="navbar navbar-expand-lg navbar-dark fixed-top">
+        <nav class="navbar navbar-expand-lg navbar-dark">
             <a class="navbar-brand" href="index.html" id="gym-name"> <i class="fas fa-dumbbell"></i> The FitStop</a>
             <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarNavDropdown"
                 aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
@@ -43,47 +43,42 @@
 
     <!-- ----- Membership Prices: Credit Design Inspired by Tana R, Code Institute ----- -->
     <section class="container">
-
-        <div class="col mt-5">
-            <div class="card non-card text-center">
-                <div class="card-header text-center">
-                    <h3>Beginner Membership</h3>
-                </div>
-                <div class="card-body">
-                    <ul class="mt-3 list-unstyled">
-                        <li>Access to all of the gym equipment and all the training zones </li>
-                        <li>Access to 4x fundamentals classes every month</li>
-                        <li>10% discount on all onsite therapies</li>
-                        <li>15mins bookable slots for the Sauna & Steam room</li>
-                    </ul>
-                    <div>
-                        <p class="text-center">£19.99 /month </p>
-                    </div><button class="mb-5 hvr-grow" type="button" data-bs-toggle="modal" data-bs-target="#">Select
-                        Membership</button><a href="#" class="#" type="button">
-                </div>
-            </div>
-        </div>
-        <div class="col mt-5">
-            <div class="card members-card text-center">
-                <div class="card-header text-center">
-                    <h3>Advanced Membership</h3>
-                </div>
-                <div class="card-body">
-                    <ul class="mt-3 list-unstyled">
-                        <li>Access to all of the gym equipment and all the training zones </li>
-                        <li>Unlimited Access to all classes</li>
-                        <li>25% discount on all onsite therapies</li>
-                        <li>30mins bookable slots for the Sauna & Steam room</li>
-                        <li>Personalized Coaching Plan</li>
-                    </ul>
-                    <div class="#">
-                        <p class="text-center">£40 /month</p>
+        <div class="row row-cols-1 row-cols-md-2">
+            <div class="col mb-4">
+                <div class="card">
+                    <div class="card-body">
+                        <h3 class="card-title">Beginner Membership</h3>
+                        <ul class="mt-3 list-unstyled">
+                            <li>Access to all of the gym equipment and all the training zones </li>
+                            <li>Access to 4x fundamentals classes every month</li>
+                            <li>10% discount on all onsite therapies</li>
+                            <li>15mins bookable slots for the Sauna & Steam room</li>
+                        </ul>
+                        <div>
+                            <p class="text-center">£19.99 /month </p>
+                        </div><button class="mb-5 hvr-grow" type="button" data-bs-toggle="modal"
+                            data-bs-target="#">Choose Membership</button><a href="#" class="#" type="button">
                     </div>
-                    <button class="mb-5 hvr-grow" type="button" data-bs-toggle="modal" data-bs-target="#">Select
-                        Membership</button>
                 </div>
             </div>
-        </div>
+            <div class="col mb-4">
+                <div class="card text-decoration-none">
+                    <div class="card-body">
+                        <h5 class="card-title">Advanced Membership</h5>
+                        <ul class="mt-3 list-unstyled">
+                            <li>Access to all of the gym equipment and all the training zones </li>
+                            <li>Unlimited Access to all classes</li>
+                            <li>25% discount on all onsite therapies</li>
+                            <li>30mins bookable slots for the Sauna & Steam room</li>
+                            <li>Personalized Coaching Plan</li>
+                        </ul>
+                        <div class="#">
+                            <p class="text-center">£40 /month</p>
+                        </div>
+                        <button class="mb-5 hvr-grow" type="button" data-bs-toggle="modal" data-bs-target="#">Select
+                            Membership</button>
+                    </div>
+                </div>
     </section>
 
     <!-- -----   Class Schedule: Credit Design Inspired by Tana R & Lewis B, Code Institute  ----- -->
@@ -159,27 +154,40 @@
 
 
     <!-- social media links in here -->
-    <section>
-        <div class="container-fluid my-5">
-            <ul class="social-networks">
-                <li><a href="https://www.facebook.com" target="_blank"><i class="fab fa-facebook"> </i></li>
-                <li><a href="https://www.instagram.com" target="_blank"><i class="fab fa-instagram"> </i></li>
-                <li><a href="https://www.twitter.com" target="_blank"><i class="fab fa-twitter-square"> </i></li>
-            </ul>
-        </div>
-        <p id="gym-times" class="text-center">Opening Times:
-            <br>
-            Monday - Friday: 06:00 - 21:00
-            <br>
-            Saturday & Sunday: 08:00 - 20:00
-        </p>
-    </section>
+    <footer>
+        <section class="footer-conatainer">
+            <div class="container-fluid my-5">
+                <ul class="social-networks">
+                    <li><a href="https://www.facebook.com" target="_blank"><i class="fab fa-facebook"> </i></li>
+                    <li><a href="https://www.instagram.com" target="_blank"><i class="fab fa-instagram"> </i></li>
+                    <li><a href="https://www.twitter.com" target="_blank"><i class="fab fa-twitter-square"> </i>
+                    </li>
+                </ul>
+            </div>
+            <div class="text-decoration-none">
+                <table class="container text-center">
+                    <tr>
+                        <th class="text-uppercase text-center">Days</th>
+                        <th class="text-uppercase">Open</th>
+                        <th class="text-uppercase">Close</th>
+                    </tr>
+                    <tr>
+                        <td> Monday - Friday</td>
+                        <td> 06:00</td>
+                        <td> 21:00</td>
+                    </tr>
+                    <tr>
+                        <td> Saturday & Sunday</td>
+                        <td> 08:00</td>
+                        <td> 20:00</td>
+                    </tr>
+                </table>
+            </div>
 
-    </ul>
-    <div class="text-center">
-        <small id="closing-line" class="text-uppercase"> enquiries@thefitstop.com</small>
-    </div>
-    </section>
+            <div class="container col-12 text-center">
+                <h4 id="closing-line">enquiries@thefitstop.com</h4>
+            </div>
+        </section>
     </footer>
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
         integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous">
