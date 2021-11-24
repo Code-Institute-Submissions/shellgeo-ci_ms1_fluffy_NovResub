@@ -13,13 +13,39 @@ nav {
     background-color: #0d5d56;
 }
 
+.image-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+}
+
+.about-container {}
+
+.mission-container {
+    background-color: #73aaa5;
+    color: #0d5d56;
+    font-size: 18px;
+}
+
+.location-container {}
+
+.footer-container {}
+
 #hero-image {
     background: url(../images/hero_image.jpg) no-repeat center center fixed;
-    height: 80vh;
+    height: 75vh;
     max-width: 100%;
     background-size: cover;
     background-color: rgba(0, 0, 0, 0);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
 }
+
 
 .nav-link {
     font-size: 60%;
@@ -29,20 +55,49 @@ nav {
     color: #ffffff;
     background-color: #6d2433;
     border-color: #6d2433;
+    border-radius: 20px;
     font-family: 'Montserrat', sans-serif;
     margin-top: 20%;
     margin-left: 45%;
 }
 
-#slogan {
-    color: #6abea7;
+.btn-secondary:hover,
+.btn-secondary:active,
+.btn-secondary:active:focus {
+    background-color: #963d4f;
+    border-color: #6d2433;
+    color: white;
 }
 
-div p {
+#slogan {
+    color: #6abea7;
+    font-size: 4rem;
+}
+
+
+#subtext {
+    color: #6abea7;
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#subheading {
+    color: #6abea7;
+    font-family: 'Righteous', san-serif;
+    font-size: xx-large;
+}
+
+div h3 {
     font-family: 'Montserrat', sans-serif;
     text-align: center;
     font-size: 15px;
+    color: black;
 
+}
+
+.btn-light {
+    background-color: #853d4c;
+    border-color: #853d4c;
 }
 
 .text-uppercase.my-3 {
@@ -94,7 +149,8 @@ div p {
 }
 
 div h2 {
-    color: #6abea7;
+    color: #0d5d56;
+    ;
     font-family: 'Righteous', cursive;
 }
 

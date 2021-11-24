@@ -22,7 +22,7 @@
 <body>
     <!-- Navbar | Credit: Inspired by Matt Rudge, Whiskey Drop Project Code Institute. -->
     <header>
-        <nav class="navbar navbar-expand-lg navbar-dark fixed-top">
+        <nav class="navbar navbar-expand-lg navbar-dark">
             <a class="navbar-brand" href="index.html"> <i class="fas fa-dumbbell"></i> The FitStop</a>
             <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarNavDropdown"
                 aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
@@ -44,25 +44,28 @@
 
     <!-- Intro Image & Gym slogan -->
     <!-- Image Credit: https://www.pexels.com/@leonardho       -->
-    <section class="my-5">
+    <section class="mt-2 image-container">
         <div id="hero-image" class="container-fluid">
             <h2 id="slogan" class="text-uppercase text-center">The One-Stop-Shop for all your fitness needs</h2>
-            <h3 id="slogan" class="lead text-center">If you are looking to change up your lifestyle, you've come to the
+            <h3 id="subtext" class="lead mt-5 text-center">If you are looking to change up your lifestyle, you've come
+                to
+                the
                 right place.</h3>
-            <button id="sign-up" type="button" class="btn btn-lg btn-secondary text-uppercase">Sign up now
-            </button>
+            <button id="sign-up" type="button" class="btn btn-lg btn-secondary text-uppercase" data-toggle="modal"
+                data-target="#signUpModal">Sign up now</button>
         </div>
+
     </section>
 
-    <!-- About us / mission statement -->
+    <!-- About us & mission statement -->
     <section class="container">
         <div class="row">
-            <div class="container-fluid text-center my-5">
-                <h3 class="text-uppercase my-3">About Us</h3>
+            <div class=" about-container container-fluid text-center my-5">
+                <h2 class="text-uppercase my-3">About Us</h2>
                 <div class="row">
                     <div class="col-12 col-md-6">
                         <div class="grid-element"><span>
-                                <h5 class="text-center"><i class="fas fa-building"></i> Facilities</h5>
+                                <h5 class="text-center" id="subheading"><i class="fas fa-building"></i> Facilities</h5>
                                 <ul class="list-unstyled">
                                     <li>250+ state of the art equipment</li>
                                     <li>Multiple training zones</li>
@@ -74,35 +77,37 @@
 
                     <div class="col-12 col-md-6">
                         <div class="grid-element"><span>
-                                <h5 class="text-center"><i class="fas fa-id-badge"></i></i> Membership Benefits</h5>
+                                <h5 class="text-center" id="subheading"><i class="fas fa-id-badge"></i></i> Membership
+                                    Benefits</h5>
                                 <ul class="list-unstyled">
-                                    <li>Access to onsite Suana & Steam room</li>
+                                    <li>Access to onsite Sauna & Steam room</li>
                                     <li>Access to all the trainer-led classes</li>
-                                    <li>Personalised Coaching to two regular classes</li>
-                                    <li>Discounted access to onsite therpaies</li>
+                                    <li>Personalized Coaching to two regular classes</li>
+                                    <li>Discounted access to onsite therapies</li>
                                 </ul>
                             </span></div>
                     </div>
                 </div>
-                <div class="container-fluid text-center my-5">
-                    <h3 class="text-uppercase my-3">Mission Statement</h3>
+
+                <div class=" mission-container container-fluid text-center my-5">
+                    <h2 class="text-uppercase my-3">Mission Statement</h2>
                     <p>
                         Our mission is to make fitness accessible for everyone. Whether you are a beginner or an
                         experienced enthusiast, we want your experience to be the best one possible.
                         <br>
                         The FitStop was started with the goal of making everyone in our facilities feel included and
                         comfortable. The gym spaces were designed with intention of catering for all abilities</p>
-                    <p><a class="btn btn-sm btn-default" href="">Read More</a></p>
+                    <p><button type="button" class="btn btn-light" href="about.html">Read More</button></p>
                 </div>
             </div>
         </div>
     </section>
 
     <!-- Find us/location details -->
-    <section class="container">
-        <div class=" text-center my-5">
+    <section class="container location-conatainer">
+        <div class=" text-center my-3">
             <div class="row">
-                <h4 class="text-uppercase">Find us</h4>
+                <h2 class="text-uppercase">Find us</h2>
                 <iframe id="maps"
                     src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4970.374563120404!2d-3.1623942711326!3d51.47307656851785!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x486e1cccb7f57293%3A0xd9b191685a92a2db!2sCastle%20Works%2C%20E%20Moors%20Rd%2C%20Cardiff%20CF24%205EU!5e0!3m2!1sen!2suk!4v1628286601115!5m2!1sen!2suk"
                     width="800" height="1500" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
@@ -132,21 +137,78 @@
     </section>
 
     <!-- social media links in here -->
-    <section>
-        <div class="container-fluid my-5">
-            <ul class="social-networks">
-                <li><a href="https://www.facebook.com" target="_blank"><i class="fab fa-facebook"> </i></li>
-                <li><a href="https://www.instagram.com" target="_blank"><i class="fab fa-instagram"> </i></li>
-                <li><a href="https://www.twitter.com" target="_blank"><i class="fab fa-twitter-square"> </i></li>
-            </ul>
-        </div>
-        <div class="container col-12 text-center">
-            <h4 id="closing-line">enquiries@thefitstop.com</h4>
-        </div>
-    </section>
+    <footer>
+        <section class="footer-conatainer">
+            <div class="container-fluid my-5">
+                <ul class="social-networks">
+                    <li><a href="https://www.facebook.com" target="_blank"><i class="fab fa-facebook"> </i></li>
+                    <li><a href="https://www.instagram.com" target="_blank"><i class="fab fa-instagram"> </i></li>
+                    <li><a href="https://www.twitter.com" target="_blank"><i class="fab fa-twitter-square"> </i></li>
+                </ul>
+            </div>
+            <div class="container col-12 text-center">
+                <h4 id="closing-line">enquiries@thefitstop.com</h4>
+            </div>
+        </section>
 
-    </ul>
-    </section>
+        <!--Sign Up Modal -->
+        <div class="modal" tabindex="-1" id="signUpModal">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title">Become a member at The FitStop!</h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <form>
+                            <div class="form-group">
+                                <label for="exampleFormControlInput1">Email
+                                    address:</label>
+                                <input type="email" class="form-control" id="exampleFormControlInput1"
+                                    placeholder="name@example.com" required="required">
+                            </div>
+                            <div class="form-group">
+                                <label for="exampleFormControlSelect1">Membership Type
+                                    (Select One)</label>
+                                <select class="form-control" id="exampleFormControlSelect1">
+                                    <option>Beginner Membership</option>
+                                    <option>Advanced Membership</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="exampleFormControlSelect2">Classes that you
+                                    are interested
+                                    in</label>
+                                <select multiple class="form-control" id="exampleFormControlSelect2">
+                                    <option>Open Gym</option>
+                                    <option>Beginner's Fundamentals</option>
+                                    <option>Olympic Lifting Fundamentals</option>
+                                    <option>Powerlifting</option>
+                                    <option>HIIT</option>
+                                    <option>Pilates</option>
+                                    <option>MetCon</option>
+                                    <option>Yoga</option>
+                                    <option>BootCamp</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="exampleFormControlTextarea1">Additional Information:</label>
+                                <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"
+                                    placeholder="Please let us know here of any other information we need to be aware of, such as injuries, allergies or accessibility needs, etc."></textarea>
+                            </div>
+                        </form>
+
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-danger" data-dismiss="modal">Cancel</button>
+                        <button type="button" class="btn btn-success">Submit</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </section>
     </footer>
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
         integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous">
