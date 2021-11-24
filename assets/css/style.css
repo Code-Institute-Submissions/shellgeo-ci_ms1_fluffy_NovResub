@@ -29,7 +29,9 @@ nav {
     font-size: 18px;
 }
 
-.location-container {}
+.location-container {
+    text-align: center;
+}
 
 .footer-container {
     text-decoration: none;
@@ -63,8 +65,6 @@ nav {
     border-color: #6d2433;
     border-radius: 20px;
     font-family: 'Montserrat', sans-serif;
-    margin-top: 20%;
-    margin-left: 45%;
 
 }
 
@@ -79,7 +79,7 @@ nav {
 .btn-col {
     text-align: center;
     margin: 0;
-    margin-top: 30%;
+    margin-top: 20%;
 }
 
 .btn-light {
@@ -101,6 +101,12 @@ nav {
 }
 
 #subheading {
+    color: #6abea7;
+    font-family: 'Righteous', san-serif;
+    font-size: xx-large;
+}
+
+#subheading2 {
     color: #6abea7;
     font-family: 'Righteous', san-serif;
     font-size: xx-large;
