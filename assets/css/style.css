@@ -65,6 +65,7 @@ nav {
     font-family: 'Montserrat', sans-serif;
     margin-top: 20%;
     margin-left: 45%;
+
 }
 
 .btn-secondary:hover,
@@ -74,6 +75,18 @@ nav {
     border-color: #6d2433;
     color: white;
 }
+
+.btn-col {
+    text-align: center;
+    margin: 0;
+    margin-top: 30%;
+}
+
+.btn-light {
+    background-color: #853d4c;
+    border-color: #853d4c;
+}
+
 
 #slogan {
     color: #6abea7;
@@ -101,10 +114,6 @@ div h3 {
 
 }
 
-.btn-light {
-    background-color: #853d4c;
-    border-color: #853d4c;
-}
 
 .text-uppercase.my-3 {
     color: #0d5d56;
