@@ -155,9 +155,30 @@ Devices tested on:
 [W3c Validator](https://validator.w3.org/#validate_by_input) was used to check my code and clear any errors with it. This site allowed me to see any stray and unclosed tags and remove them as needed.
 
 Results:
-- [Index Page]()
-- [About Us Page]()
-- [Price & Schedules Page]()
-- [Team Page]()
+- [Index Page](https://github.com/shellgeo/ci_ms1_fluffy/blob/master/docs/docs/validation/about_us_validation.png)
+- [About Us Page](https://github.com/shellgeo/ci_ms1_fluffy/blob/master/docs/docs/validation/index.html_validation.jpg)
+- [Price & Schedules Page](https://github.com/shellgeo/ci_ms1_fluffy/blob/master/docs/docs/validation/price_and_schedules_validation.png)
+- [Team Page](https://github.com/shellgeo/ci_ms1_fluffy/blob/master/docs/docs/validation/team_validation.png)
 
+_____
 
+## Deployment
+
+This project was developed on [GitPod](https://gitpod.io/). Once this was done a repository was made in Github. This then allowed me to publish a live site for my project. I followed this [guide](https://docs.github.com/en/get-started/quickstart/create-a-repo) to ensure that this was done correctly. 
+
+________
+## Credits 
+
+The following people helped me finish my project buy offering me advice and guidance 
+
+- Abi Harrison - Peer & lead
+- Harry Dhillon - Peer
+- Mo Shami - Mentor
+- Suzy Bennett - Peer & Lead
+- Yigit - Peer 
+- Matt Rudge - Code Institute
+
+**Additional Credits**
+- Stack Overflow
+- Youtube
+- GeeksforGeeks
