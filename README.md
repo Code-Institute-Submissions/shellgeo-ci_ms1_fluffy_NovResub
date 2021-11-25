@@ -9,6 +9,8 @@ I have always wanted to learn how to code and my circumstances earlier this year
 
 This would be my very first project that I have completed, and I am submitting for my Milestone project for the Code Institute. The inspiration for this project was mildly influenced by the assessment guide and my love for fitness. Over the years I have found myself in various fitness environments and this project gives me the opportunity to develop a hypothetical gym where everyone is truly welcome. 
 
+
+
 View the deployed website here: [The FitStop](https://shellgeo.github.io/ci_ms1_fluffy/ "The FitStop | A One Stop Shop")
 
 ---
@@ -26,7 +28,9 @@ View the deployed website here: [The FitStop](https://shellgeo.github.io/ci_ms1_
             
 2. [Features](#Features)
 
-3. []()
+3. [Testing]()
+4. [Deployment]()
+5.[Credits]()
 ___
 # User Experience Design 
 ## **Strategy**  
@@ -98,25 +102,62 @@ I have attached my [First Draft](https://github.com/shellgeo/ci_ms1_fluffy/blob/
 - **Meet the Team** - [Desktop](https://github.com/shellgeo/ci_ms1_fluffy/blob/d5772c9fdafc2c0db2f73b83320adec19f84b72d/docs/docs/wireframes/Meet_the_Team_and_Services.png) | [Mobile](https://github.com/shellgeo/ci_ms1_fluffy/blob/d5772c9fdafc2c0db2f73b83320adec19f84b72d/docs/docs/wireframes/Meet_the_Team_and_Services_mobile.png)
 
 
+
 ## **Surface**
 
 
-### Design
-Colour
+### **Design**
+**- Colour Scheme** 
+<br>
+The [colour scheme](https://github.com/shellgeo/ci_ms1_fluffy/blob/master/docs/docs/design/colour_pallete.png) was chosen from the website [Coolors](https://coolors.co/). Initially a shade of purple and two seperate shades of grey were chosen. However I ran into some issues where tej text couldn't be read very well. So decided to change this. This will be outlined in the [Testing]() section.
 
-Typography 
+**- Typography**
+<br>
+The Righteous and Montserrat font were the primary fonts used for the site. The fonts were sourced from [Google Fonts](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwji3YvqrrP0AhUr_bsIHQuaDQMQFnoECAcQAQ&url=https%3A%2F%2Ffonts.google.com%2F&usg=AOvVaw1aUw_UCxsfhIArr7_iyMIi).
 
-Images 
+**- Images** 
+<br>
+All images for the website were downloaded from [Pexels](https://www.pexels.com/).
+[Font Awesome](https://fontawesome.com/) was also used for icons on the pages for styling purposes.
+___
 
-Effects
+# Features
 
-final product - Mock Up
+- Content with text information to maximizing intuitive learning
+- Images to compliment the content to minimize cognitive overload.
+- Responsive design for various devices allowing visual balance.
+- Interactive map for location information.
 
-minimize cognitive overload 
+### Technologies Used
+- HTML5
+- CSS
+- BootStrap v 4.5.3
+    - JQuery
+    - JavaScript
+- Git and GitHub
+- Balsamiq
+- Firefox Developer tools
+______
 
-maximizing intuitive learning
+# Testing
 
-visual balance 
+A [Test](https://github.com/shellgeo/ci_ms1_fluffy/blob/master/docs/docs/testing/test.html) file was created to debug and fix some issues with code. Sometimes this didn't behave as I wanted it to, however it gave me a clean slate to work on without any distractions. The majority iof the test was done Mozilla firefox using the developer tools. I also used the Peer Code review Channel to get any additional tips.
 
----
+Devices tested on:
+- Galaxy S 20 Ultra
+- iPhone 12/13 + Pro
+- iPhone 12/13 Pro Max
+- iPhone SE 2nd gen
+- iPad 
+- Laptop with HiDPI screen
+- iPhon 5/SE 1st Gen
+
+[W3c Validator](https://validator.w3.org/#validate_by_input) was used to check my code and clear any errors with it. This site allowed me to see any stray and unclosed tags and remove them as needed.
+
+Results:
+- [Index Page]()
+- [About Us Page]()
+- [Price & Schedules Page]()
+- [Team Page]()
+
 
