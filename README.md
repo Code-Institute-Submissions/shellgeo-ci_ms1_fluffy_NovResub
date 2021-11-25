@@ -28,9 +28,10 @@ View the deployed website here: [The FitStop](https://shellgeo.github.io/ci_ms1_
             
 2. [Features](#Features)
 
-3. [Testing]()
-4. [Deployment]()
-5.[Credits]()
+3. [Testing](#Testing)
+4. [Deployment](#Deployment)
+
+5. [Credits](#Credits)
 ___
 # User Experience Design 
 ## **Strategy**  
@@ -182,3 +183,4 @@ The following people helped me finish my project buy offering me advice and guid
 - Stack Overflow
 - Youtube
 - GeeksforGeeks
+- Tara Rhoesyn - Peer
