@@ -24,7 +24,6 @@ nav {
 .about-container {}
 
 .mission-container {
-    background-color: #73aaa5;
     color: #0d5d56;
     font-size: 18px;
 }
@@ -34,7 +33,7 @@ nav {
 }
 
 .footer-container {
-    text-decoration: none;
+    margin: 0%;
 }
 
 #hero-image {
@@ -169,7 +168,7 @@ div h3 {
     background-size: cover;
 }
 
-div h2 {
+h2 {
     color: #0d5d56;
     ;
     font-family: 'Righteous', cursive;
@@ -186,10 +185,6 @@ div h2 {
     font-weight: 700;
     margin-top: 80px;
 
-    #gym-times {
-        color: #6d2436;
-
-    }
 
     .col-4 {
         -ms-flex: 0 0 33.333333%;
